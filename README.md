@@ -73,6 +73,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-marins&theme=github_dark) -->
+
+
 <!-- ## Connect with me: -->
 <p align="left">
 
