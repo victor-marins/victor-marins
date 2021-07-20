@@ -126,5 +126,5 @@ JavaScript               3 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 19/07/2021
+ Last Updated on 20/07/2021
 <!--END_SECTION:waka-->
