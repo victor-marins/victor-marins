@@ -61,14 +61,14 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/victor-marins/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=victor-marins&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </p>
 
 
-<a href="https://github.com/victor-marins/"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=victor-marins&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/victor-marins/"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=victor-marins&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
