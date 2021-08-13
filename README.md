@@ -13,12 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->  
 
-
+ 
 <!-- <img align="center" width="90%" height="auto" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="175px"/> -->
-
-<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
-
 
 ## 🙋‍♂️ About Me 
 
