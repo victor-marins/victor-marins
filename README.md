@@ -15,7 +15,7 @@ Here are some ideas to get you started:
  
 <!-- <img align="center" width="90%" height="auto" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="175px"/> -->
 
-## 🙋‍♂️ About Me 
+<!-- ## 🙋‍♂️ About Me 
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
