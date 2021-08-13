@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me 
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
