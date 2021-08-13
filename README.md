@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->  
-
  
 <!-- <img align="center" width="90%" height="auto" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="175px"/> -->
 
