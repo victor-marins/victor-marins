@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-849578%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-849498%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -90,11 +90,11 @@ Here are some ideas to get you started:
 🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       129 commits    ███████░░░░░░░░░░░░░░░░░░   28.79% 
-Tuesday      129 commits    ███████░░░░░░░░░░░░░░░░░░   28.79% 
+Monday       128 commits    ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Tuesday      130 commits    ███████░░░░░░░░░░░░░░░░░░   29.02% 
 Wednesday    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
 Thursday     74 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
 Friday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
