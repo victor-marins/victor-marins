@@ -110,7 +110,7 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JSON                     4 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
