@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-699%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-699%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-443%20Thousand%20lines%20of%20code-blue)
 
@@ -120,5 +120,5 @@ Other                    0 secs              ██░░░░░░░░░�
 ```
 
 
- Last Updated on 11/02/2022 12:14:59 UTC
+ Last Updated on 11/02/2022 16:13:21 UTC
 <!--END_SECTION:waka-->
